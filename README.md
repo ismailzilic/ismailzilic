@@ -3,7 +3,7 @@
 </h1>
 
 <p>
-  21 year-old student at <a href="https://fit.ba">Faculty of Information Technologies</a>
+  I'm 21 years old, currently studying software engineering at <a href="https://fit.ba">Faculty of Information Technologies</a>.
 </p>
 
 <h2>
@@ -41,9 +41,3 @@ Currently working on:
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ismailzilic.ismailzilic&"  />
 </div>
-
-<br>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailzilic&show_icons=true&locale=en&layout=compact" alt="ismailzilic" />
-</p>
