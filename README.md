@@ -2,36 +2,6 @@
   Ismail Zilic
 </h1>
 
-<p>
-  I'm 21 years old, currently studying software engineering at <a href="https://fit.ba">Faculty of Information Technologies</a>.
-</p>
-
-<h2>
-Interests:
-</h2>
-<ul>
-  <li>Embedded programming</li>
-  <li>Operating system kernels</li>
-  <li>C, C++</li>
-</ul>
-
-<h2>
-Learning / reading about:
-</h2>
-<ul>
-  <li>CPU and memory virtualization</li>
-  <li>OS designs and policies</li>
-</ul>
-
-<h2>
-Currently working on:
-</h2>
-<ul>
-  <li><a href="https://github.com/ismailzilic/billie-jean-os">billie-jean-os</a> - 32-bit OS</li>
-</ul>
-
-<br>
-
 *Contact: ismailzilic@gmail.com*
 
 <br>
